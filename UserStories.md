@@ -20,4 +20,17 @@ As a customer who has experience with building PC's I would:
 - like to be able to compare parts to each other in the store so that I don't need to open other windows to compare them
 - like the option to be able to filter out parts that are not compatible with already selected parts
 
+As a customer who has ordered a custom PC or purchased parts I would:
 
+- like to be able to see the progress of my order for peace of mind it is being processed
+- like to be able to view tracking details once the parcel has be shipped so that I can see how far away it is
+- like to be able to request changes to an order that has not been processed so that I can add or remove items if I changed my mind
+- like to be able to leave feedback on my experience so that others can have a better experience
+
+As a vendor I:
+
+- need to be able to add or remove items from the store so that the store reflects what I can actually sell
+- need to be able to manage stock levels so that customers can have the most up to date information when shopping
+- need to be able to inform customers of the progress of their order so that customers don't have to get in contact with me to find this information
+- would like to be notified of new orders so that I can begin processing as soon as practical
+- would like to be able to track product popularity so I can avoid stocking products that wont sell
