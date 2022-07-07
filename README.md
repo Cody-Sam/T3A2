@@ -26,6 +26,7 @@ The purpose of ------*NAME OF APP*------ is to solve these issues, by allowing c
 
 <ul>
 <li>Auto invoice email after order</li>
+<li>Part comparison allowing customers to compare two parts, see performance differences between the two and make an informed decision</li>
 <li>Visual representation of each part being ordered</li>
 <li>3D representation of parts/computer as being built</li>
 </ul>
@@ -47,6 +48,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 <li>JEST</li>
 <li>Netlify</li>
 <li>Heroku</li>
+<li>Cloudinary</li>
 <li>Stripe</li>
 <li>Github</li>
 <ul>
