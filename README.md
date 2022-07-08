@@ -52,6 +52,97 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R2. Dataflow Diagram
 
+<details><summary>Application Overview</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-01.jpg)
+
+</details>
+
+---
+
+<details><summary>User Management - Overview</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-02.jpg)</details>
+
+<details><summary>User Management - Level 1</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-03.jpg)
+
+</details>
+
+---
+
+<details><summary>Shop Front - Overview</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-04.jpg)
+
+</details>
+
+<details><summary>Shop Front - Build A PC</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-05.jpg)
+
+</details>
+
+<details><summary>Shop Front - Part Comparison</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-06.jpg)
+
+</details>
+
+---
+
+<details><summary>Manage Cart</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-07.jpg)
+
+</details>
+
+---
+
+<details><summary>Checkout</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-08.jpg)
+
+</details>
+
+---
+
+<details><summary>Manage Orders</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-09.jpg)
+
+</details>
+
+---
+
+<details><summary>Admin Panel</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-10.jpg)
+
+</details>
+
+<details><summary>Admin Panel - Manage Products</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-11.jpg)
+
+</details>
+<details><summary>Admin Panel - Process Orders</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-12.jpg)
+
+</details>
+<details><summary>Admin Panel - Process Order</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-13.jpg)
+
+</details>
+<details><summary>Admin Panel - View Statistics</summary>
+
+![Dataflow Diagram Page 1](docs/images/dfd/page-14.jpg)
+
+</details>
+
 ## R3. Application Architecture Diagram
 
 ## R4. User Stories
