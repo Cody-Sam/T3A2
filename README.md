@@ -54,7 +54,11 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ### [Higher Quality PDF Version](docs/data_flow_diagrams.pdf)
 
-<details><summary>Embedded Images - click to uncollapse</summary>
+### Embedded Images
+
+<details><summary>click to uncollapse</summary>
+
+---
 
 <details><summary>Application Overview</summary>
 
@@ -64,32 +68,19 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ---
 
-<details><summary>User Management - Overview</summary>
+<details><summary>User Management</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-02.jpg)</details>
-
-<details><summary>User Management - Level 1</summary>
-
+![Dataflow Diagram Page 1](docs/images/dfd/page-02.jpg)
 ![Dataflow Diagram Page 1](docs/images/dfd/page-03.jpg)
 
 </details>
 
 ---
 
-<details><summary>Shop Front - Overview</summary>
+<details><summary>Shop Front</summary>
 
 ![Dataflow Diagram Page 1](docs/images/dfd/page-04.jpg)
-
-</details>
-
-<details><summary>Shop Front - Build A PC</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-05.jpg)
-
-</details>
-
-<details><summary>Shop Front - Part Comparison</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-06.jpg)
 
 </details>
@@ -123,26 +114,9 @@ Most of the application development is centered around the MERN stack. The MERN 
 <details><summary>Admin Panel</summary>
 
 ![Dataflow Diagram Page 1](docs/images/dfd/page-10.jpg)
-
-</details>
-
-<details><summary>Admin Panel - Manage Products</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-11.jpg)
-
-</details>
-<details><summary>Admin Panel - Process Orders</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-12.jpg)
-
-</details>
-<details><summary>Admin Panel - Process Order</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-13.jpg)
-
-</details>
-<details><summary>Admin Panel - View Statistics</summary>
-
 ![Dataflow Diagram Page 1](docs/images/dfd/page-14.jpg)
 
 </details>
@@ -151,9 +125,20 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R3. Application Architecture Diagram
 
+### [Higher Quality PDF Version](docs/application_architecture_diagram.pdf)
+
+### Embedded Image
+
+<details><summary>click to uncollapse</summary>
+
+![Application Architecture Diagram](docs/images/aad/page-1.jpg)
+
+</details >
+
+
 ## R4. User Stories
 
-As a customer who lacks experience in building PC's I would:
+### As a customer who lacks experience in building PC's I would:
 
 - like to be able to have a custom PC built for me so I can have a PC that best suits my needs
 - like to be able to be able to design my PC using a interface so that I can visualise what parts are still required
@@ -164,7 +149,7 @@ As a customer who lacks experience in building PC's I would:
 - like to be able to customise how my PC looks as well as the parts used in it so I can make it personalise to me
 - like to be able to purchase my build and have it sent to me so that I can have a custom PC built without me knowing how to do it
 
-As a customer who has experience with building PC's I would:
+### As a customer who has experience with building PC's I would:
 
 - like to be able to shop for parts normally so I don't waste time with an app or interface that I don't need
 - like to be able to create separate lists of parts for different potential builds so that I can keep track of parts I am interested in
@@ -173,14 +158,14 @@ As a customer who has experience with building PC's I would:
 - like to be able to compare parts to each other in the store so that I don't need to open other windows to compare them
 - like the option to be able to filter out parts that are not compatible with already selected parts
 
-As a customer who has ordered a custom PC or purchased parts I would:
+### As a customer who has ordered a custom PC or purchased parts I would:
 
 - like to be able to see the progress of my order for peace of mind it is being processed
 - like to be able to view tracking details once the parcel has be shipped so that I can see how far away it is
 - like to be able to request changes to an order that has not been processed so that I can add or remove items if I changed my mind
 - like to be able to leave feedback on my experience so that others can have a better experience
 
-As a vendor I:
+### As a vendor I:
 
 - need to be able to add or remove items from the store so that the store reflects what I can actually sell
 - need to be able to manage stock levels so that customers can have the most up to date information when shopping
@@ -190,4 +175,62 @@ As a vendor I:
 
 ## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
+### [Higher Quality PDF Version](docs/wireframes.pdf)
+
+### Embedded Images
+
+<details><summary>click to uncollapse</summary>
+
+<details><summary>Landing Page</summary>
+
+![Wireframe](docs/images/wireframes/page-01.jpg)
+![Wireframe](docs/images/wireframes/page-02.jpg)
+![Wireframe](docs/images/wireframes/page-03.jpg)
+
+</details>
+
+<details><summary>Build A PC</summary>
+
+![Wireframe](docs/images/wireframes/page-04.jpg)
+![Wireframe](docs/images/wireframes/page-05.jpg)
+![Wireframe](docs/images/wireframes/page-06.jpg)
+
+</details>
+
+<details><summary>Build A PC - Peripherals</summary>
+
+![Wireframe](docs/images/wireframes/page-07.jpg)
+![Wireframe](docs/images/wireframes/page-08.jpg)
+![Wireframe](docs/images/wireframes/page-09.jpg)
+
+</details>
+
+<details><summary>Purchase Build </summary>
+
+![Wireframe](docs/images/wireframes/page-10.jpg)
+![Wireframe](docs/images/wireframes/page-11.jpg)
+![Wireframe](docs/images/wireframes/page-12.jpg)
+
+</details>
+
+<details><summary>Browse Items</summary>
+
+![Wireframe](docs/images/wireframes/page-13.jpg)
+![Wireframe](docs/images/wireframes/page-14.jpg)
+![Wireframe](docs/images/wireframes/page-15.jpg)
+
+</details>
+
+<details><summary>Admin Panel - Product Edit</summary>
+
+![Wireframe](docs/images/wireframes/page-16.jpg)
+![Wireframe](docs/images/wireframes/page-17.jpg)
+![Wireframe](docs/images/wireframes/page-18.jpg)
+
+</details>
+
+</details>
+
 ## R6. Screenshots of your Trello board throughout the duration of the project
+
+incoming...
