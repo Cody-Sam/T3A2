@@ -52,6 +52,10 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R2. Dataflow Diagram
 
+### [Higher Quality PDF Version](docs/data_flow_diagrams.pdf)
+
+<details><summary>Embedded Images - click to uncollapse</summary>
+
 <details><summary>Application Overview</summary>
 
 ![Dataflow Diagram Page 1](docs/images/dfd/page-01.jpg)
@@ -140,6 +144,8 @@ Most of the application development is centered around the MERN stack. The MERN 
 <details><summary>Admin Panel - View Statistics</summary>
 
 ![Dataflow Diagram Page 1](docs/images/dfd/page-14.jpg)
+
+</details>
 
 </details>
 
