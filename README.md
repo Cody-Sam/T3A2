@@ -1,64 +1,60 @@
-**R1. Description of your website, including:**
+# T2A3
 
-**Purpose**
+## R1. Description of your website
+
+### Purpose
 
 A local computer building business is looking to provide their customers with a better user experience when buying a PC. Right now, the buying process for a customer looking to build a computer is done with direct communication between the business and the customer, either verbally or over text online. This is inefficient for the business and is also error prone. In order to expand, the business needs a solution to allow customers to build their own computers, 24 hours of the day, in a simple way.
 
-The purpose of ------*NAME OF APP*------ is to solve these issues, by allowing customers to build their own PC, online, with an easy to use interface, and have the order paid for and sent to the business completely autonimously. 
+The purpose of "PC BUILDER 9001" is to solve these issues, by allowing customers to build their own PC, online, with an easy to use interface, and have the order paid for and sent to the business completely autonomously.
 
-**Functionality / features**
+### Functionality / features
 
-**Minimum Viable Product:**
+#### Minimum Viable Product
 
-<ul>
-<li>PC builder application</li>
-<li>Allow selection of each component of the PC</li>
-<li>Application manages compatability of each component</li>
-<li>User registration/accounts to promote returning customers</li>
-<li>Admin controls for user accounts/parts/orders</li>
-<li>Parts stored in database can be created/modified with an easy to use admin interface</li>
-<li>Store front for buying loose parts/components</li>
-<li>Payment processing using Stripe</li>
-<li>Live chat between customer and business for any enquiries</li>
-<ul>
+- PC builder application
+- Allow selection of each component of the PC
+- Application manages compatibility of each component
+- User registration/accounts to promote returning customers
+- Admin controls for user accounts/parts/orders
+- Parts stored in database can be created/modified with an easy to use admin interface
+- Store front for buying loose parts/components
+- Payment processing using Stripe
+- Live chat between customer and business for any enquiries
 
-**Stretch goals:**
+#### Stretch goals
 
-<ul>
-<li>Auto invoice email after order</li>
-<li>Part comparison allowing customers to compare two parts, see performance differences between the two and make an informed decision</li>
-<li>Visual representation of each part being ordered</li>
-<li>3D representation of parts/computer as being built</li>
-</ul>
+- Auto invoice email after order
+- Part comparison allowing customers to compare two parts, see performance differences between the two and make an informed decision
+- Visual representation of each part being ordered
+- 3D representation of parts/computer as being built
 
-**Target audience**
+### Target audience
 
 The target audience is people looking to buy a custom PC. The easy to use interface is aiming to tailor to people who might not have much experience or knowledge around custom PC's, and aims to onboard a lot of first time PC builders.
 
-
-**Tech stack**
+### Tech stack
 
 Most of the application development is centered around the MERN stack. The MERN stack utilises React to build the front end, Express and Node to build the back end infrastructure and MongoDB for data storage. The application will also need to utilise a number of other applications and services to deliver all functionality and features. A full list of technology used:
 
-<ul>
-<li>MongoDB</li>
-<li>Express</li>
-<li>React</li>
-<li>Node</li>
-<li>JEST</li>
-<li>Netlify</li>
-<li>Heroku</li>
-<li>Cloudinary</li>
-<li>Stripe</li>
-<li>Github</li>
-<ul>
+#### Client Side
 
+- MongoDB
+- Express
+- React
+- Node
+- Cloudinary
+- Stripe
+- Auth0
+- JEST
+- Heroku
+- Github
 
-**R2. Dataflow Diagram**
+## R2. Dataflow Diagram
 
-**R3. Application Architecture Diagram**
+## R3. Application Architecture Diagram
 
-**R4. User Stories**
+## R4. User Stories
 
 As a customer who lacks experience in building PC's I would:
 
@@ -95,6 +91,6 @@ As a vendor I:
 - would like to be notified of new orders so that I can begin processing as soon as practical
 - would like to be able to track product popularity so I can avoid stocking products that wont sell
 
-**R5. Wireframes for multiple standard screen sizes, created using industry standard software**
+## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
-**R6. Screenshots of your Trello board throughout the duration of the project**
+## R6. Screenshots of your Trello board throughout the duration of the project
