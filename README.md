@@ -233,4 +233,14 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
 
-incoming...
+### 5th July 2022
+
+![Trello Screenshot](docs/images/trello/220705-Trello.png)
+
+### 7th July 2022
+
+![Trello Screenshot](docs/images/trello/220707-Trello.png)
+
+### 8th July 2022
+
+![Trello Screenshot](docs/images/trello/220708-Trello.png)
