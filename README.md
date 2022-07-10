@@ -175,6 +175,8 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R5. Wireframes for multiple standard screen sizes, created using industry standard software
 
+Initial wireframes were submitted for review to the client. We received some feedback regarding the amount of wireframes for the admin functionality. Upon receiving the feedback we made some changes and the client was satisfied.
+
 ### [Higher Quality PDF Version](docs/wireframes.pdf)
 
 ### Embedded Images
