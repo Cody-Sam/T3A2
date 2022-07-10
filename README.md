@@ -135,7 +135,6 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 </details >
 
-
 ## R4. User Stories
 
 ### As a customer who lacks experience in building PC's I would:
@@ -182,6 +181,8 @@ Initial wireframes were submitted for review to the client. We received some fee
 ### Embedded Images
 
 <details><summary>click to uncollapse</summary>
+
+#### Original Wireframes
 
 <details><summary>Landing Page</summary>
 
@@ -231,6 +232,31 @@ Initial wireframes were submitted for review to the client. We received some fee
 
 </details>
 
+#### Post Feedback Additions
+<!-- ![Wireframe](docs/images/wireframes/page-19.jpg) -->
+
+<details><summary>Admin Panel - View Orders</summary>
+
+![Wireframe](docs/images/wireframes/page-20.jpg)
+![Wireframe](docs/images/wireframes/page-21.jpg)
+![Wireframe](docs/images/wireframes/page-22.jpg)
+
+</details>
+
+<details><summary>Admin Panel - Process An Order</summary>
+
+![Wireframe](docs/images/wireframes/page-23.jpg)
+![Wireframe](docs/images/wireframes/page-24.jpg)
+![Wireframe](docs/images/wireframes/page-25.jpg)
+</details>
+
+<details><summary>Admin Panel - Sales Statistics</summary>
+
+![Wireframe](docs/images/wireframes/page-26.jpg)
+![Wireframe](docs/images/wireframes/page-27.jpg)
+![Wireframe](docs/images/wireframes/page-28.jpg)
+</details>
+
 </details>
 
 ## R6. Screenshots of your Trello board throughout the duration of the project
@@ -246,3 +272,7 @@ Initial wireframes were submitted for review to the client. We received some fee
 ### 8th July 2022
 
 ![Trello Screenshot](docs/images/trello/220708-Trello.png)
+
+### 10th July 2022
+
+![Trello Screenshot](docs/images/trello/220710-Trello.png)
