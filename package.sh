@@ -7,7 +7,7 @@ echo "Dont forget capitals"
 read -p "First Name: " FNAME
 read -p "Last Name: " LNAME
 
-FILENAME="$FNAME$LNAME"_T3A2.zip
+FILENAME="$FNAME$LNAME"_T3A2-A.zip
 
 FILEPATH="$PWD/"
 
