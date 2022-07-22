@@ -58,7 +58,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R2. Dataflow Diagram
 
-### [Higher Quality PDF Version](docs/data_flow_diagrams.pdf)
+### [Higher Quality PDF Version](./docs/data_flow_diagrams.pdf)
 
 ### Embedded Images
 
@@ -68,7 +68,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Application Overview</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-01.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-01.jpg)
 
 </details>
 
@@ -76,8 +76,8 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>User Management</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-02.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-03.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-02.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-03.jpg)
 
 </details>
 
@@ -85,9 +85,9 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Shop Front</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-04.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-05.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-06.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-04.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-05.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-06.jpg)
 
 </details>
 
@@ -95,7 +95,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Manage Cart</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-07.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-07.jpg)
 
 </details>
 
@@ -103,7 +103,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Checkout</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-08.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-08.jpg)
 
 </details>
 
@@ -111,7 +111,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Manage Orders</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-09.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-09.jpg)
 
 </details>
 
@@ -119,11 +119,11 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 <details><summary>Admin Panel</summary>
 
-![Dataflow Diagram Page 1](docs/images/dfd/page-10.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-11.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-12.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-13.jpg)
-![Dataflow Diagram Page 1](docs/images/dfd/page-14.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-10.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-11.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-12.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-13.jpg)
+![Dataflow Diagram Page 1](./docs/images/dfd/page-14.jpg)
 
 </details>
 
@@ -131,13 +131,13 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ## R3. Application Architecture Diagram
 
-### [Higher Quality PDF Version](docs/application_architecture_diagram.pdf)
+### [Higher Quality PDF Version](./docs/application_architecture_diagram.pdf)
 
 ### Embedded Image
 
 <details><summary>click to uncollapse</summary>
 
-![Application Architecture Diagram](docs/images/aad/page-1.jpg)
+![Application Architecture Diagram](./docs/images/aad/page-1.jpg)
 
 </details >
 
@@ -182,7 +182,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 Initial wireframes were submitted for review to the client. We received some feedback regarding the amount of wireframes for the admin functionality. Upon receiving the feedback we made some changes and the client was satisfied.
 
-### [Higher Quality PDF Version](docs/wireframes.pdf)
+### [Higher Quality PDF Version](./docs/wireframes.pdf)
 
 ### Embedded Images
 
@@ -192,75 +192,75 @@ Initial wireframes were submitted for review to the client. We received some fee
 
 <details><summary>Landing Page</summary>
 
-![Wireframe](docs/images/wireframes/page-01.jpg)
-![Wireframe](docs/images/wireframes/page-02.jpg)
-![Wireframe](docs/images/wireframes/page-03.jpg)
+![Wireframe](./docs/images/wireframes/page-01.jpg)
+![Wireframe](./docs/images/wireframes/page-02.jpg)
+![Wireframe](./docs/images/wireframes/page-03.jpg)
 
 </details>
 
 <details><summary>Build A PC</summary>
 
-![Wireframe](docs/images/wireframes/page-04.jpg)
-![Wireframe](docs/images/wireframes/page-05.jpg)
-![Wireframe](docs/images/wireframes/page-06.jpg)
+![Wireframe](./docs/images/wireframes/page-04.jpg)
+![Wireframe](./docs/images/wireframes/page-05.jpg)
+![Wireframe](./docs/images/wireframes/page-06.jpg)
 
 </details>
 
 <details><summary>Build A PC - Peripherals</summary>
 
-![Wireframe](docs/images/wireframes/page-07.jpg)
-![Wireframe](docs/images/wireframes/page-08.jpg)
-![Wireframe](docs/images/wireframes/page-09.jpg)
+![Wireframe](./docs/images/wireframes/page-07.jpg)
+![Wireframe](./docs/images/wireframes/page-08.jpg)
+![Wireframe](./docs/images/wireframes/page-09.jpg)
 
 </details>
 
 <details><summary>Purchase Build </summary>
 
-![Wireframe](docs/images/wireframes/page-10.jpg)
-![Wireframe](docs/images/wireframes/page-11.jpg)
-![Wireframe](docs/images/wireframes/page-12.jpg)
+![Wireframe](./docs/images/wireframes/page-10.jpg)
+![Wireframe](./docs/images/wireframes/page-11.jpg)
+![Wireframe](./docs/images/wireframes/page-12.jpg)
 
 </details>
 
 <details><summary>Browse Items</summary>
 
-![Wireframe](docs/images/wireframes/page-13.jpg)
-![Wireframe](docs/images/wireframes/page-14.jpg)
-![Wireframe](docs/images/wireframes/page-15.jpg)
+![Wireframe](./docs/images/wireframes/page-13.jpg)
+![Wireframe](./docs/images/wireframes/page-14.jpg)
+![Wireframe](./docs/images/wireframes/page-15.jpg)
 
 </details>
 
 <details><summary>Admin Panel - Product Edit</summary>
 
-![Wireframe](docs/images/wireframes/page-16.jpg)
-![Wireframe](docs/images/wireframes/page-17.jpg)
-![Wireframe](docs/images/wireframes/page-18.jpg)
+![Wireframe](./docs/images/wireframes/page-16.jpg)
+![Wireframe](./docs/images/wireframes/page-17.jpg)
+![Wireframe](./docs/images/wireframes/page-18.jpg)
 
 </details>
 
 #### Post Feedback Additions
-<!-- ![Wireframe](docs/images/wireframes/page-19.jpg) -->
+<!-- ![Wireframe](./docs/images/wireframes/page-19.jpg) -->
 
 <details><summary>Admin Panel - View Orders</summary>
 
-![Wireframe](docs/images/wireframes/page-20.jpg)
-![Wireframe](docs/images/wireframes/page-21.jpg)
-![Wireframe](docs/images/wireframes/page-22.jpg)
+![Wireframe](./docs/images/wireframes/page-20.jpg)
+![Wireframe](./docs/images/wireframes/page-21.jpg)
+![Wireframe](./docs/images/wireframes/page-22.jpg)
 
 </details>
 
 <details><summary>Admin Panel - Process An Order</summary>
 
-![Wireframe](docs/images/wireframes/page-23.jpg)
-![Wireframe](docs/images/wireframes/page-24.jpg)
-![Wireframe](docs/images/wireframes/page-25.jpg)
+![Wireframe](./docs/images/wireframes/page-23.jpg)
+![Wireframe](./docs/images/wireframes/page-24.jpg)
+![Wireframe](./docs/images/wireframes/page-25.jpg)
 </details>
 
 <details><summary>Admin Panel - Sales Statistics</summary>
 
-![Wireframe](docs/images/wireframes/page-26.jpg)
-![Wireframe](docs/images/wireframes/page-27.jpg)
-![Wireframe](docs/images/wireframes/page-28.jpg)
+![Wireframe](./docs/images/wireframes/page-26.jpg)
+![Wireframe](./docs/images/wireframes/page-27.jpg)
+![Wireframe](./docs/images/wireframes/page-28.jpg)
 </details>
 
 </details>
@@ -269,24 +269,24 @@ Initial wireframes were submitted for review to the client. We received some fee
 
 ### 5th July 2022
 
-![Trello Screenshot](docs/images/trello/220705-Trello.png)
+![Trello Screenshot](./docs/images/trello/220705-Trello.png)
 
 ### 7th July 2022
 
-![Trello Screenshot](docs/images/trello/220707-Trello.png)
+![Trello Screenshot](./docs/images/trello/220707-Trello.png)
 
 ### 8th July 2022
 
-![Trello Screenshot](docs/images/trello/220708-Trello.png)
+![Trello Screenshot](./docs/images/trello/220708-Trello.png)
 
 ### 10th July 2022
 
-![Trello Screenshot](docs/images/trello/220710-Trello.png)
+![Trello Screenshot](./docs/images/trello/220710-Trello.png)
 
 ### 12th July 2022
 
-![Trello Screenshot](docs/images/trello/220712-Trello.png)
+![Trello Screenshot](./docs/images/trello/220712-Trello.png)
 
 ### 22th July 2022
 
-![Trello Screenshot](docs/images/trello/220722-Trello.png)
+![Trello Screenshot](./docs/images/trello/220722-Trello.png)
