@@ -8,15 +8,13 @@
 
 ## User Testing
 
-## R2. Dataflow Diagram
-
 ### [Higher Quality PDF Version](./docs/User-Testing.pdf)
 
 ### Embedded Images
 
 <details><summary>click to view</summary>
-![user testing 1](docs/images/testing/page-1.jpg)
-![user testing 2](docs/images/testing/page-2.jpg)
+![user testing 1](./docs/images/testing/page-1.jpg)
+![user testing 2](./docs/images/testing/page-2.jpg)
 </details>
 ---
 
