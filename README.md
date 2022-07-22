@@ -1,10 +1,24 @@
 # T2A3
 
-### Links
+## Links
 
-- [Project Repository](https://github.com/cody-sam/T2A2)
+- [Project Repository](https://github.com/cody-sam/T3A2)
 - [Application Repository](https://github.com/cody-sam/app)
 - [API Repository](https://github.com/cody-sam/api)
+
+## User Testing
+
+## R2. Dataflow Diagram
+
+### [Higher Quality PDF Version](./docs/User-Testing.pdf)
+
+### Embedded Images
+
+<details><summary>click to view</summary>
+![user testing 1](docs/images/testing/page-1.jpg)
+![user testing 2](docs/images/testing/page-2.jpg)
+</summary>
+---
 
 ## R1. Description of your website
 
@@ -62,7 +76,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ### Embedded Images
 
-<details><summary>click to uncollapse</summary>
+<details><summary>click to view</summary>
 
 ---
 
@@ -135,7 +149,7 @@ Most of the application development is centered around the MERN stack. The MERN 
 
 ### Embedded Image
 
-<details><summary>click to uncollapse</summary>
+<details><summary>click to view</summary>
 
 ![Application Architecture Diagram](./docs/images/aad/page-1.jpg)
 
@@ -186,7 +200,7 @@ Initial wireframes were submitted for review to the client. We received some fee
 
 ### Embedded Images
 
-<details><summary>click to uncollapse</summary>
+<details><summary>click to view</summary>
 
 #### Original Wireframes
 
@@ -239,6 +253,7 @@ Initial wireframes were submitted for review to the client. We received some fee
 </details>
 
 #### Post Feedback Additions
+
 <!-- ![Wireframe](./docs/images/wireframes/page-19.jpg) -->
 
 <details><summary>Admin Panel - View Orders</summary>
@@ -254,6 +269,7 @@ Initial wireframes were submitted for review to the client. We received some fee
 ![Wireframe](./docs/images/wireframes/page-23.jpg)
 ![Wireframe](./docs/images/wireframes/page-24.jpg)
 ![Wireframe](./docs/images/wireframes/page-25.jpg)
+
 </details>
 
 <details><summary>Admin Panel - Sales Statistics</summary>
@@ -261,6 +277,7 @@ Initial wireframes were submitted for review to the client. We received some fee
 ![Wireframe](./docs/images/wireframes/page-26.jpg)
 ![Wireframe](./docs/images/wireframes/page-27.jpg)
 ![Wireframe](./docs/images/wireframes/page-28.jpg)
+
 </details>
 
 </details>
