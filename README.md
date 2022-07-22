@@ -276,3 +276,11 @@ Initial wireframes were submitted for review to the client. We received some fee
 ### 10th July 2022
 
 ![Trello Screenshot](docs/images/trello/220710-Trello.png)
+
+### 12th July 2022
+
+![Trello Screenshot](docs/images/trello/220712-Trello.png)
+
+### 22th July 2022
+
+![Trello Screenshot](docs/images/trello/220722-Trello.png)
