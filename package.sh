@@ -12,6 +12,8 @@ FILENAME="$FNAME$LNAME"_T3A2-A.zip
 FILEPATH="$PWD/"
 
 zip -r ./$FILENAME . -x *.git* *.DS_Store* *.zip*
+cd ..
+zip -r ./submission/$FILENAME src -x *.git* *.DS_Store* *.zip* *node_modules*
 
 clear
 
