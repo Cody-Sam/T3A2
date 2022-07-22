@@ -17,7 +17,7 @@
 <details><summary>click to view</summary>
 ![user testing 1](docs/images/testing/page-1.jpg)
 ![user testing 2](docs/images/testing/page-2.jpg)
-</summary>
+</details>
 ---
 
 ## R1. Description of your website
